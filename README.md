@@ -125,7 +125,7 @@ VULCAN is developed in a flexible way that the chemical network is _not_ hard co
 You can edit the default netowrk, to remove or add reactions, to change rate constats, etc. You can also use a different chemical network, as long as it is in the same format as the defalut ones. That is, the reactions should be writen in the form of [ A + B -> C + D ], including the square brackets.
 By default, ```make_chem_funs.py``` is always called prior to the main code to produce ```chem_funs.py``` based on the new chemical network . This step (which takes a few seconds) can be skiped by adding the agument ```-n```while running vulcan in the command line:
 ```
-python vulcan.py -n
+python3 vulcan.py -n
 ```
 However, it is important NOT to skipping this step after making a change of the chemical network.
 
