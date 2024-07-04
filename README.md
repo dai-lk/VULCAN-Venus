@@ -157,4 +157,4 @@ The project receives financial support from the National Natural Science Foundat
 
 VULCAN-Venus is publicly accessible. To use it, please cite Dai et al. (2024, accepted)
 
-Should you have any questions or suggestions, please contact Longkang Dai: dailongkang2022@126.com
+Should you have any questions or suggestions, please contact Longkang Dai at: dailongkang2022@126.com
