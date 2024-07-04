@@ -14,7 +14,7 @@ Two very useful tools to set up python environments:\
 [Pip](https://pip.pypa.io/en/stable/) - package installer for Python\
 [Anaconda](https://docs.continuum.io/) - virtual environment manager
 
-VULCAN requires the following python packages:
+VULCAN-Venus requires the following python packages:
 - numpy
 - scipy
 - Sympy
