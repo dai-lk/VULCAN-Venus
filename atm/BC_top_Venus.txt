@@ -1,0 +1,12 @@
+#species flux [cm-2 s-1] 
+O             5.03E11
+O2            -9.0E8
+O2_1          -3.0E8
+CO            5.03E11
+CO2           -5.03E11
+Cl            1.0E7
+HCl           -1.0E7
+SO2           0
+NO            0
+COS           0
+
