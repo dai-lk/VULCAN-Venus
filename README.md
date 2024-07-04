@@ -3,7 +3,7 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)\
 This is an open-access chemistry-transport model spanning both the middle and lower atmospheres on Venus, compiled by Python 3. 
 
-The theory papers of VULCAN can be found here: Dai et al. (2024).
+The theory papers of VULCAN can be found here: Dai et al. (2024, accepted).
 
 The framwork of this work is adopted from [VULCAN](https://github.com/exoclime/VULCAN) developed by [Tsai et al. (2017)](https://arxiv.org/abs/1607.00409). Thus, VULCAN-Venus has similar structure and operation method as VULCAN.
 
@@ -155,4 +155,4 @@ You can also find all the names of variables and the class structure in ```store
 ## Remarks
 The project receives financially support from the National Natural Science Foundation of China and Natural Science Foundation of Hunan Province, technical guidance from Shang-Min Tsai, Paul B. Rimmer and Carver J. Bierson.
 
-VULCAN-Venus is publicly accessable. To use it, please cite Dai et al. (2024, accepted by A&A)
+VULCAN-Venus is publicly accessable. To use it, please cite Dai et al. (2024, accepted)
