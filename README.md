@@ -21,7 +21,7 @@ VULCAN requires the following python packages:
 - matplotlib
 - PIL/Pillow (optional: for interactive plotting)
 - PyMieScatt (If the clouds are not released, this package is useless. Then, one should remove its import in op.py.)
-and the embeded [FastChem](https://github.com/exoclime/FastChem) requires a standard C++ compiler, like g++ or Clang.
+- and the embeded [FastChem](https://github.com/exoclime/FastChem) requires a standard C++ compiler, like g++ or Clang.
 
 If any of the python packages are missing, you can install the full SciPy Stack via Pip, e.g.
 ```bash
