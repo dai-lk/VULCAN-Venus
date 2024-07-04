@@ -63,8 +63,6 @@ for a different vertical mixing (K<sub>zz</sub>) run. Set use_live_plot = True/F
 │   ├── atm/
 │   ├── fastchem_vulcan/
 │   ├── output/
-│   ├── plot/
-│   ├── plot_py/
 │   ├── /thermo/
 │   │   ├──/NASA9/
 │   │   ├──/Networks/
@@ -86,7 +84,6 @@ for a different vertical mixing (K<sub>zz</sub>) run. Set use_live_plot = True/F
 `/atm/`: storing input atmospheric files
 `/fastchem_vulcan/`: Fastchem (equilibirum chemistry code) which is used to initialse the compositions
 `/output/`: storing the output files
-`/plot/`: storing the output plots
 `/thermo/`: storing chemical kinetics networks and thermodynamic data
 `/thermo/NASA9/`: storing the NASA-9 polynomials for the Gibbs free energy of every species (We note that the rate coefficients of the reverse reactions are provided directly rather than calculated through the forward reactions in the nominal model. The values of the Gibbs free energy do not influence the results. 
 `/thermo/Networks/`: storing the adopted chemical networks
