@@ -156,3 +156,5 @@ You can also find all the names of variables and the class structure in ```store
 The project receives financially support from the National Natural Science Foundation of China and Natural Science Foundation of Hunan Province.
 
 VULCAN-Venus is publicly accessable. To use it, please cite Dai et al. (2024, accepted)
+
+Should you have any questions or suggestions, please contact Longkang Dai: dailongkang2022@126.com
