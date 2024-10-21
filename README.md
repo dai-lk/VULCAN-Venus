@@ -31,6 +31,9 @@ pip3 install --upgrade pip
 ```bash
 pip3 install --user numpy scipy matplotlib ipython jupyter pandas sympy nose
 ```
+```bash
+pip3 install PyMieScatt
+```
 The above commands update pip and install SciPy via pip (use pip instead of pip3 if running with python2). Further information can be found at http://www.scipy.org/install.html
 
 PIL or Pillow is a plotting library. If installed, the plots will be conveniently shown by the os-built-in image viewer. See https://github.com/python-pillow/Pillow for more information.  
