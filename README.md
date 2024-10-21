@@ -21,7 +21,7 @@ VULCAN-Venus requires the following python packages:
 - Sympy
 - matplotlib
 - PIL/Pillow (optional: for interactive plotting)
-- [PyMieScatt](https://github.com/bsumlin/PyMieScatt) (If the clouds are not released, this package is useless. Then, one should remove its import in op.py.)
+- [PyMieScatt](https://github.com/bsumlin/PyMieScatt) (One could easily install this package by the command "pip install PyMieScatt".)
 - and the embeded [FastChem](https://github.com/exoclime/FastChem) requires a standard C++ compiler, like g++ or Clang.
 
 If any of the python packages are missing, you can install the full SciPy Stack via Pip, e.g.
