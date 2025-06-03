@@ -151,7 +151,8 @@ If both use_topflux and use_botflux in vulcan_cfg.py are set to False, it will u
 The script of ```output/reading_data.py``` serve as a good example of how to access to output files. The first step is to use "pickle.load" to unpack the binary files. The main variables are stored in three basic classes: data['variable'], data['atm'], and data['parameter'].
 You can also find all the names of variables and the class structure in ```store.py```.
 
-
+### Notes ###
+The dissolution rate coefficient and release rate coefficients of SO<sub>2</sub> were adopted from Rimmer et al. (2021) for retrieving the SO<sub>2</sub> depletion in the cloud region. These rate coefficients have not been verified by experiments yet. Their aqueous chemistry within the clouds, which removes the liquid SO<sub>2</sub> in Rimmer et al. (2021), is not included in our model. This might lead to overestimate of liquid SO<sub>2</sub>. Since it does not react with any other species, this issue can not affect the model result and would be removed after we couple the cloud formation into VULCAN-Venus. 
 
 ## Remarks
 The project receives financial support from the National Natural Science Foundation of China and Natural Science Foundation of Hunan Province.
