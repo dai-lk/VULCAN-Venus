@@ -152,7 +152,7 @@ The script of ```output/reading_data.py``` serve as a good example of how to acc
 You can also find all the names of variables and the class structure in ```store.py```.
 
 ### Notes ###
-The dissolution rate coefficient and release rate coefficients of SO<sub>2</sub> were adopted from Rimmer et al. (2021) for retrieving the SO<sub>2</sub> depletion in the cloud region. These rate coefficients have not been verified by experiments yet. Their aqueous chemistry within the clouds, which removes the liquid SO<sub>2</sub> in Rimmer et al. (2021), is not included in our model. This might lead to overestimate of liquid SO<sub>2</sub>. Since it does not react with any other species, this issue can not affect the model result and would be removed after we couple the cloud formation into VULCAN-Venus. 
+The dissolution rate coefficient and release rate coefficients of SO<sub>2</sub> were adopted from Rimmer et al. (2021) for retrieving the SO<sub>2</sub> depletion in the cloud region. These rate coefficients have not been verified by experiments yet. Their aqueous chemistry within the clouds, which removes the liquid SO<sub>2</sub> in Rimmer et al. (2021), is not included in our model. This might lead to overestimate of liquid SO<sub>2</sub>. Since it does not react with any other species, this issue is not able to affect the model result and would be removed once we coupled the cloud formation into VULCAN-Venus. 
 
 ## Remarks
 The project receives financial support from the National Natural Science Foundation of China and Natural Science Foundation of Hunan Province.
